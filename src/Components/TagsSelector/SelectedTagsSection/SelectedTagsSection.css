@@ -1,9 +1,0 @@
-.selected-tags-section {
-	background-color: white;
-	height: 100%;
-	border-radius: 0.8em 0 0 0.8em;
-	display: flex;
-	align-items: center;
-	padding: 0.1em 0.5em 0.1em 0.8em;
-	flex-wrap: wrap;
-}
